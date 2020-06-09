@@ -7,3 +7,6 @@
 <p>How to run: in cmd or bash type "python proxy.py [site]"
 <p>Set up proxy in os settings.
 <p>Run example: python proxy.py site.com
+  
+  
+  https://github.com/rq-dev/ProxyHTTP
