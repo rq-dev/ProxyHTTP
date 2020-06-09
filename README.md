@@ -9,4 +9,4 @@
 <p>Run example: python proxy.py site.com
   
   
-  https://github.com/rq-dev/ProxyHTTP
+<p><a href="https://rq-dev.github.io/ProxyHTTP/" target="_blank" ><font size="5">ProxyHTTP</font></a>
